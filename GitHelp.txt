@@ -10,3 +10,4 @@ git remote add origin https://github.com/kerimovaalbina00-boop/OOP---64-2.git
 git status \ состояние проекта
 git add . \ копирует все в буффэр обмена
 git commit -m "Lesson_1" \ Сохраняет
+git push origin master

@@ -13,3 +13,6 @@ git commit -m "Lesson_1" \ Сохраняет
 git push origin master
 git branch \ Смотрим сколько веток
 git switch \ Переход с одной ветки на другой
+git add lessons/lesson_2.py \ копирует только один файл
+git commit -m "update lesson_2"\ сохраняет только один файл
+git switch -c name_branch\ создает новую ветку и переходит сразу же

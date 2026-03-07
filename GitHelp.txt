@@ -11,3 +11,5 @@ git status \ состояние проекта
 git add . \ копирует все в буффэр обмена
 git commit -m "Lesson_1" \ Сохраняет
 git push origin master
+git branch \ Смотрим сколько веток
+git switch \ Переход с одной ветки на другой

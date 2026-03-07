@@ -67,5 +67,6 @@ Mikasa= Hero("Mikasa", 5, 100, 5)
 Eren = Hero("Eren", 6,90,4)
 print(Mikasa.rest())
 print(Eren.rest())
-
+print(Mikasa.attack())
+print()
 

@@ -16,3 +16,12 @@ git switch \ Переход с одной ветки на другой
 git add lessons/lesson_2.py \ копирует только один файл
 git commit -m "update lesson_2"\ сохраняет только один файл
 git switch -c name_branch\ создает новую ветку и переходит сразу же
+
+production
+stage| test
+feat/register feat/create_order feat/filter_news
+"Feat: added register code in file name.py #1021"
+"fix: fixed register in line 123"
+"update: register added email logic"
+
+git push merge branch_name\ перекидывает файл с одной ветки на другой

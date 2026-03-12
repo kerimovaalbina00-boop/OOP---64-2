@@ -20,6 +20,10 @@ feat/register feat/create_order feat/filter_news
 "Feat: added register code in file name.py #1021"
 "fix: fixed register in line 123"
 "update: register added email logic"
+<<<<<<< HEAD
 
 
 git pull origin main
+=======
+git merge\ перекидывает файл с одной ветки на другую
+>>>>>>> 7dcdb69f4563c11abf3fc099154dc6f0217c2929

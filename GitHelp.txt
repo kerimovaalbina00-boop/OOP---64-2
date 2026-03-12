@@ -20,3 +20,6 @@ feat/register feat/create_order feat/filter_news
 "Feat: added register code in file name.py #1021"
 "fix: fixed register in line 123"
 "update: register added email logic"
+
+
+git pull origin main

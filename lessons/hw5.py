@@ -3,7 +3,6 @@ class User:
         self.name = name
         self.role = role
 
-
 def is_admin(func):
     def wrapper(user):
         if user.role == "admin":

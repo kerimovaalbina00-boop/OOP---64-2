@@ -27,3 +27,6 @@ git pull origin main
 =======
 git merge\ перекидывает файл с одной ветки на другую
 >>>>>>> 7dcdb69f4563c11abf3fc099154dc6f0217c2929
+
+venv\Scripts\activate / активировать
+source venv\Scripts\activate /активировать

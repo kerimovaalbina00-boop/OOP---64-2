@@ -4,3 +4,5 @@
 __pycachce__
 main.py
 avomirekkk
+__pycache__/
+*.pyc
